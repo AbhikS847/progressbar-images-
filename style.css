@@ -1,0 +1,16 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.progress{
+    padding-right: 3rem;
+}
+
+.buttons{
+    width:32px;
+    height:32px;
+    background-color:#eaeaea;
+    border-radius: 50%;
+    margin-left:4rem;
+    margin-top:0.4rem
+}
